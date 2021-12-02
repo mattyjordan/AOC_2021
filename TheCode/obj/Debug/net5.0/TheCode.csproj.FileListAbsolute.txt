@@ -1,0 +1,16 @@
+C:\Users\matty\Documents\CodeChallenges\TheCode\bin\Debug\net5.0\TheCode.exe
+C:\Users\matty\Documents\CodeChallenges\TheCode\bin\Debug\net5.0\TheCode.deps.json
+C:\Users\matty\Documents\CodeChallenges\TheCode\bin\Debug\net5.0\TheCode.runtimeconfig.json
+C:\Users\matty\Documents\CodeChallenges\TheCode\bin\Debug\net5.0\TheCode.runtimeconfig.dev.json
+C:\Users\matty\Documents\CodeChallenges\TheCode\bin\Debug\net5.0\TheCode.dll
+C:\Users\matty\Documents\CodeChallenges\TheCode\bin\Debug\net5.0\ref\TheCode.dll
+C:\Users\matty\Documents\CodeChallenges\TheCode\bin\Debug\net5.0\TheCode.pdb
+C:\Users\matty\Documents\CodeChallenges\TheCode\obj\Debug\net5.0\TheCode.csproj.AssemblyReference.cache
+C:\Users\matty\Documents\CodeChallenges\TheCode\obj\Debug\net5.0\TheCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matty\Documents\CodeChallenges\TheCode\obj\Debug\net5.0\TheCode.AssemblyInfoInputs.cache
+C:\Users\matty\Documents\CodeChallenges\TheCode\obj\Debug\net5.0\TheCode.AssemblyInfo.cs
+C:\Users\matty\Documents\CodeChallenges\TheCode\obj\Debug\net5.0\TheCode.csproj.CoreCompileInputs.cache
+C:\Users\matty\Documents\CodeChallenges\TheCode\obj\Debug\net5.0\TheCode.dll
+C:\Users\matty\Documents\CodeChallenges\TheCode\obj\Debug\net5.0\ref\TheCode.dll
+C:\Users\matty\Documents\CodeChallenges\TheCode\obj\Debug\net5.0\TheCode.pdb
+C:\Users\matty\Documents\CodeChallenges\TheCode\obj\Debug\net5.0\TheCode.genruntimeconfig.cache
