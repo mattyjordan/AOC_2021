@@ -1,0 +1,12 @@
+C:\Users\matty\Documents\CodeChallenges\AOC_Days\bin\Debug\net5.0\AOC_Days.deps.json
+C:\Users\matty\Documents\CodeChallenges\AOC_Days\bin\Debug\net5.0\AOC_Days.dll
+C:\Users\matty\Documents\CodeChallenges\AOC_Days\bin\Debug\net5.0\ref\AOC_Days.dll
+C:\Users\matty\Documents\CodeChallenges\AOC_Days\bin\Debug\net5.0\AOC_Days.pdb
+C:\Users\matty\Documents\CodeChallenges\AOC_Days\obj\Debug\net5.0\AOC_Days.csproj.AssemblyReference.cache
+C:\Users\matty\Documents\CodeChallenges\AOC_Days\obj\Debug\net5.0\AOC_Days.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matty\Documents\CodeChallenges\AOC_Days\obj\Debug\net5.0\AOC_Days.AssemblyInfoInputs.cache
+C:\Users\matty\Documents\CodeChallenges\AOC_Days\obj\Debug\net5.0\AOC_Days.AssemblyInfo.cs
+C:\Users\matty\Documents\CodeChallenges\AOC_Days\obj\Debug\net5.0\AOC_Days.csproj.CoreCompileInputs.cache
+C:\Users\matty\Documents\CodeChallenges\AOC_Days\obj\Debug\net5.0\AOC_Days.dll
+C:\Users\matty\Documents\CodeChallenges\AOC_Days\obj\Debug\net5.0\ref\AOC_Days.dll
+C:\Users\matty\Documents\CodeChallenges\AOC_Days\obj\Debug\net5.0\AOC_Days.pdb

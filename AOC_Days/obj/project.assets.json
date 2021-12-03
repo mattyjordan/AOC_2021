@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {
-      "AOC_Days/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
-        "compile": {
-          "bin/placeholder/AOC_Days.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/AOC_Days.dll": {}
-        }
-      }
-    }
+    "net5.0": {}
   },
-  "libraries": {
-    "AOC_Days/1.0.0": {
-      "type": "project",
-      "path": "../AOC_Days/AOC_Days.csproj",
-      "msbuildProject": "../AOC_Days/AOC_Days.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net5.0": [
-      "AOC_Days >= 1.0.0"
-    ]
+    "net5.0": []
   },
   "packageFolders": {
     "C:\\Users\\matty\\.nuget\\packages\\": {}
@@ -32,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\matty\\Documents\\CodeChallenges\\TheCode\\TheCode.csproj",
-      "projectName": "TheCode",
-      "projectPath": "C:\\Users\\matty\\Documents\\CodeChallenges\\TheCode\\TheCode.csproj",
+      "projectUniqueName": "C:\\Users\\matty\\Documents\\CodeChallenges\\AOC_Days\\AOC_Days.csproj",
+      "projectName": "AOC_Days",
+      "projectPath": "C:\\Users\\matty\\Documents\\CodeChallenges\\AOC_Days\\AOC_Days.csproj",
       "packagesPath": "C:\\Users\\matty\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\matty\\Documents\\CodeChallenges\\TheCode\\obj\\",
+      "outputPath": "C:\\Users\\matty\\Documents\\CodeChallenges\\AOC_Days\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\matty\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -50,11 +31,7 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {
-            "C:\\Users\\matty\\Documents\\CodeChallenges\\AOC_Days\\AOC_Days.csproj": {
-              "projectPath": "C:\\Users\\matty\\Documents\\CodeChallenges\\AOC_Days\\AOC_Days.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

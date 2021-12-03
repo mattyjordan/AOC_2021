@@ -6,14 +6,6 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v5.0": {
-      "TheCode/1.0.0": {
-        "dependencies": {
-          "AOC_Days": "1.0.0"
-        },
-        "runtime": {
-          "TheCode.dll": {}
-        }
-      },
       "AOC_Days/1.0.0": {
         "runtime": {
           "AOC_Days.dll": {}
@@ -22,11 +14,6 @@
     }
   },
   "libraries": {
-    "TheCode/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
     "AOC_Days/1.0.0": {
       "type": "project",
       "serviceable": false,

@@ -14,3 +14,6 @@ C:\Users\matty\Documents\CodeChallenges\TheCode\obj\Debug\net5.0\TheCode.dll
 C:\Users\matty\Documents\CodeChallenges\TheCode\obj\Debug\net5.0\ref\TheCode.dll
 C:\Users\matty\Documents\CodeChallenges\TheCode\obj\Debug\net5.0\TheCode.pdb
 C:\Users\matty\Documents\CodeChallenges\TheCode\obj\Debug\net5.0\TheCode.genruntimeconfig.cache
+C:\Users\matty\Documents\CodeChallenges\TheCode\bin\Debug\net5.0\AOC_Days.dll
+C:\Users\matty\Documents\CodeChallenges\TheCode\bin\Debug\net5.0\AOC_Days.pdb
+C:\Users\matty\Documents\CodeChallenges\TheCode\obj\Debug\net5.0\TheCode.csproj.CopyComplete
