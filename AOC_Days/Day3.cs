@@ -8,13 +8,6 @@ namespace AOC_Days
 {
     public class Day3
     {
-        private enum PartEnum
-        {
-            [Description("P1")]
-            Part1 = 1,
-            [Description("P2")]
-            Part2 = 2
-        }
         public static string[] AdventOfCodeDay3(string textPath)
         {
             string[] lines = File.ReadAllLines(textPath);
